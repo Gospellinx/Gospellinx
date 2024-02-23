@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gospel Ocheni</h1>
 <h3 align="center">A passionate Full stack developer from Nigeria</h3>
-<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.e1f3413bf5036045713341394f617225?rik=3FwJTzg%2b3sqHvg&pid=ImgRaw&r=0"
+<img align="center" alt="Coding" width="400" src="https://th.bing.com/th/id/R.e1f3413bf5036045713341394f617225?rik=3FwJTzg%2b3sqHvg&pid=ImgRaw&r=0"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gospellinx&label=Profile%20views&color=0e75b6&style=flat" alt="gospellinx" /> </p>
 
