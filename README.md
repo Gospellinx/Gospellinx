@@ -1,4 +1,4 @@
-[![MasterHead]https://th.bing.com/th/id/R.0274207612d515f49012c87803a9e631?rik=64eRGWVr%2bNbCtQ&pid=ImgRaw&r=0]
+[![MasterHead]https://th.bing.com/th/id/R.0274207612d515f49012c87803a9e631?rik=64eRGWVr%2bNbCtQ&pid=ImgRaw&r=0
 <h1 align="center">Hi 👋, I'm Gospel Ocheni</h1>
 <h3 align="center">A passionate Full stack developer from Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.e1f3413bf5036045713341394f617225?rik=3FwJTzg%2b3sqHvg&pid=ImgRaw&r=0"
